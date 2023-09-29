@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahlam-M , a Mobile Applications Developer
+- 👋 Hi, I’m @Ahlam-m , a Mobile Applications Developer
 
 - I develop Android, IOS, Flutter Apps.
 
